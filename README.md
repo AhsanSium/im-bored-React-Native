@@ -1,8 +1,8 @@
-# _{Im-Bored}_
+# _Im-Bored_
 
-#### _{Simple React Native App}_
+#### _Simple React Native App_
 
-#### By _**{Ahsan Sium}**_
+#### By _**Ahsan Sium**_
 
 ## Technologies Used
 
@@ -34,11 +34,11 @@ _{This App will give you a random activity every time you press the Randomize bu
 
 _{This is open source just don't use this in any kind of unethical activities.}_
 
-## Contact Information
+<!-- ## Contact Information -->
 
 
 ## Download Link
 
-# https://drive.google.com/file/d/1jAB2gk_x8uJdFL-i9gW1I7-ACGL28izE/view?usp=sharing
+### https://drive.google.com/file/d/1jAB2gk_x8uJdFL-i9gW1I7-ACGL28izE/view?usp=sharing
 
 _{___Ahsan Sium}_

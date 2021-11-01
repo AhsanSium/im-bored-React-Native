@@ -21,7 +21,6 @@ _{This App will give you a random activity every time you press the Randomize bu
 * _locate to your file system_
 * _npm i_
 * _expo start_
-* _format_
 
 <!-- _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_ -->
 
@@ -39,6 +38,6 @@ _{This is open source just don't use this in any kind of unethical activities.}_
 
 ## Download Link
 
-### https://drive.google.com/file/d/1jAB2gk_x8uJdFL-i9gW1I7-ACGL28izE/view?usp=sharing
+#### https://drive.google.com/file/d/1jAB2gk_x8uJdFL-i9gW1I7-ACGL28izE/view?usp=sharing
 
 _{___Ahsan Sium}_
